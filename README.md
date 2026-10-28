@@ -8,7 +8,7 @@ The name comes from the Sanskrit *sutra*, a thread.
 
 ## Download
 
-### **[⬇ Sutr 1.1.2 for Android (6 MB)](https://github.com/Rohith-G1024/Sutr-Releases/releases/download/v1.1.2/Sutr-1.1.2.apk)**
+### **[⬇ Sutr 1.2.0 for Android (6 MB)](https://github.com/Rohith-G1024/Sutr-Releases/releases/download/v1.2.0/Sutr-1.2.0.apk)**
 
 Tap it, then open the downloaded file. Android asks whether to allow
 installing from your browser: say yes.

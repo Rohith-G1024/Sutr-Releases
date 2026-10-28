@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.2.0 — 2026-10-28
+
+- Text below a --- line is a note to self, kept off Today and cards.
+- Keep imports put links below that line, and idea labels make ideas.
+- A Tags screen: rename, merge, nest tags and see their entries.
+- Tags in the side menu; add or remove a tag on many entries at once.
+- Adding a tag suggests the ones you already use.
+- Tag as is now called Category.
+- Links open with a tap and show a preview card (Settings -> Privacy).
+- Updates: Auto-check daily, weekly or monthly.
+- The Notes | Groups switch is centred and no longer shifts.
+- More room around the reminder times in Settings.
+
 ## 1.1.2 — 2026-10-28
 
 - An import can bring back what an earlier import left in the trash.
