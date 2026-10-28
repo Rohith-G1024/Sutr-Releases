@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.3.0 — 2026-10-28
+
+- An entry, person or group grows out of the row you tap to open it.
+- Suggest tags in an entry's menu: the on-phone AI proposes, you pick.
+- Settings -> AI model downloads it once (2.6 GB, on Wi-Fi only).
+- A note can be two kinds at once, such as Quote + Idea.
+- Search waits for a pause in your typing, so typing stays smooth.
+- Notes | Groups slides; the entry's pill is centred and larger.
+- An import's preview always counts the people its file names.
+- The reminder check's Battery opens Sutr's page and says what to tap.
+
 ## 1.2.0 — 2026-10-28
 
 - Text below a --- line is a note to self, kept off Today and cards.
