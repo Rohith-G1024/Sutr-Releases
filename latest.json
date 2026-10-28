@@ -1,6 +1,15 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "url": "https://github.com/Rohith-G1024/Sutr-Releases/releases",
-  "notes": []
+  "versionCode": 2,
+  "versionName": "1.0.0",
+  "url": "https://github.com/Rohith-G1024/Sutr-Releases/releases/download/v1.0.0/Sutr-1.0.0.apk",
+  "notes": [
+    "Journal, tasks, ideas, quotes and notes, written from one sheet.",
+    "Today: what is due, what you wrote, and On this day.",
+    "Projects, repeating tasks, and reminders with quiet hours.",
+    "Search everything, and save the searches you use often.",
+    "People: who you write about, month by month.",
+    "Back up to a folder or to your Google Drive, encrypted.",
+    "Import from Diarium and Google Keep.",
+    "App lock with your fingerprint, face or the phone's PIN."
+  ]
 }
