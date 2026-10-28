@@ -1,15 +1,17 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.0",
-  "url": "https://github.com/Rohith-G1024/Sutr-Releases/releases/download/v1.0.0/Sutr-1.0.0.apk",
+  "versionCode": 3,
+  "versionName": "1.1.0",
+  "url": "https://github.com/Rohith-G1024/Sutr-Releases/releases/download/v1.1.0/Sutr-1.1.0.apk",
   "notes": [
-    "Journal, tasks, ideas, quotes and notes, written from one sheet.",
-    "Today: what is due, what you wrote, and On this day.",
-    "Projects, repeating tasks, and reminders with quiet hours.",
-    "Search everything, and save the searches you use often.",
-    "People: who you write about, month by month.",
-    "Back up to a folder or to your Google Drive, encrypted.",
-    "Import from Diarium and Google Keep.",
-    "App lock with your fingerprint, face or the phone's PIN."
+    "Import Diarium's own backup file (.diary), not only its JSON.",
+    "An import's preview lists what it leaves out, and why.",
+    "Notes tab: Keep-style coloured cards, with Groups beside them.",
+    "Projects are now called Groups.",
+    "Home's page files itself as a task, a quote or a journal entry.",
+    "Re-file any entry as journal, note, idea, quote or task.",
+    "Tag as: turn several entries into notes, ideas or quotes at once.",
+    "Settings opens Google Takeout, with the steps, for Keep's export.",
+    "Backup notices live in Settings, with a dot on the menu.",
+    "A spinner shows while an import, backup or restore runs."
   ]
 }

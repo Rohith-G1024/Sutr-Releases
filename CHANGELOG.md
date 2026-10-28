@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.1.0 — 2026-10-28
+
+- Import Diarium's own backup file (.diary), not only its JSON.
+- An import's preview lists what it leaves out, and why.
+- Notes tab: Keep-style coloured cards, with Groups beside them.
+- Projects are now called Groups.
+- Home's page files itself as a task, a quote or a journal entry.
+- Re-file any entry as journal, note, idea, quote or task.
+- Tag as: turn several entries into notes, ideas or quotes at once.
+- Settings opens Google Takeout, with the steps, for Keep's export.
+- Backup notices live in Settings, with a dot on the menu.
+- A spinner shows while an import, backup or restore runs.
+
 ## 1.0.0 — 2026-10-28
 
 - Journal, tasks, ideas, quotes and notes, written from one sheet.
