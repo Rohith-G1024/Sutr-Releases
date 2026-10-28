@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.1.2 — 2026-10-28
+
+- An import can bring back what an earlier import left in the trash.
+
+## 1.1.1 — 2026-10-28
+
+- Keep notes labelled Quotes, in quote marks or signed are now quotes.
+- Import Keep again to turn the quotes already brought in into quotes.
+- Journal rows show only a title or a heading in bold.
+
 ## 1.1.0 — 2026-10-28
 
 - Import Diarium's own backup file (.diary), not only its JSON.
